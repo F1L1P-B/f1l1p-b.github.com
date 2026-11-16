@@ -1,0 +1,41 @@
+body.strona {
+    background-color: navy;
+    background-image: url("bigbro.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: auto;
+
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    margin: 5px;
+}
+a {
+	color: cyan;
+}
+a:hover {
+	color: brown;
+}
+
+.kasyno {
+    text-align: right;
+}
+
+.ramka {
+    background-color: black;
+    color: crimson;
+    padding: 30px;
+
+    border-width: 5px;
+    border-style: double;
+    border-color: purple;
+    border-radius: 30px;
+
+}
+
+.copyright {
+    color: white;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
